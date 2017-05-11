@@ -1,0 +1,7 @@
+name: Frontend Main
+description: Generates default entities for integration between multiple systems
+package: Integration_c
+
+type: module
+core: 8.x
+version: 1.0
